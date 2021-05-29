@@ -49,7 +49,7 @@ input {
     margin-bottom: 10px;
 }
 
-input[type="text"]{
+input[type="text"], input[type="password"]{
     width: 289px;
     padding-left: 10px;
 }
